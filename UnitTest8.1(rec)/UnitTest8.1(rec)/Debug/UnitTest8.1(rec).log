@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest8.1(rec).cpp
+C:\Users\User\source\repos\UnitTest8.1(rec)\UnitTest8.1(rec)\UnitTest8.1(rec).cpp(17,31): error C3861: CountIncludes: идентификатор не найден
+C:\Users\User\source\repos\UnitTest8.1(rec)\UnitTest8.1(rec)\UnitTest8.1(rec).cpp(28,20): error C3861: Change: идентификатор не найден
